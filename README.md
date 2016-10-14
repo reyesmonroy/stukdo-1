@@ -1,4 +1,4 @@
-##Stukdo A minimal trllo clone. 
+##Stukdo A minimal trello clone. 
 
 ###Learnings from this project
 
